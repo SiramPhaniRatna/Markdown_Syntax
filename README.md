@@ -35,3 +35,29 @@ https://github.com/SiramPhaniRatna/Markdown_Syntax/edit/main/README.md
 ```javascript
 var s = "java script variable"
 alert(s)
+```
+ ```
+ without language
+ ```
+
+```html
+<html>
+   <head>
+        <title>something<title/>
+        </head>
+```
+
+# Table 
+| table | head | head |
+|----|----|----|
+| 1x1 | 1x2 | 1x3 |
+| 2x1 | 2x2 | 2x3 |
+
+table | Head | Head 
+----|----|----
+data1 | data2 | data3
+
+# Block Quotes 
+
+> this is about Block Quotes
+
